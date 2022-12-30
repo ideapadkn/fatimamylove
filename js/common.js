@@ -5,8 +5,8 @@ document.addEventListener('DOMContentLoaded', function() {
 		speed: 1800,
 		centeredSlides: true,
 		navigation: {
-			nextEl: '.showcase-navigation__prev',
-			prevEl: '.showcase-navigation___next',
+			nextEl: '.showcase-navigation__next',
+			prevEl: '.showcase-navigation___prev',
 		}
 	})
 	document.querySelector('video').playbackRate = 2
