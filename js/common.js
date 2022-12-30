@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
 		centeredSlides: true,
 		navigation: {
 			nextEl: '.showcase-navigation__next',
-			prevEl: '.showcase-navigation___prev',
+			prevEl: '.showcase-navigation__prev',
 		}
 	})
 	document.querySelector('video').playbackRate = 2
